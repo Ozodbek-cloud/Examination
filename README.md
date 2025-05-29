@@ -38,8 +38,21 @@ TRANSPORT DA get - hammasi, get one id orqali param da , delete ham id paramda
 
 ------------------------------------------------------------------------------------------------
 
+Add Admin
 
+Admin hamma malumot larini kiritasiz, va token olasiz, login qilasiz
+Delete params id, update da ham
+HAMMASI TOGRI BOLISHI KERAK , TEKSHIRIB CHIQISH KERAK
 
-![image](https://github.com/user-attachments/assets/c41cf2d5-90db-4b97-91cd-c0b1f0d69ef9) => LOYIHAGA SHUNCHA VAQTIM KETGANI
+----------------------------------------------------------------------------------------
+
+Admin Permission => 
+bu Ham Yozib qoyilgan
+Parmas id lar bilan delelte , update boladi
+-----------------------------------------------------------------------------------------------
+
+HAMMASINI OQIGANLIGIZ MING BOR RAXMAT !!!
+
+![image](https://github.com/user-attachments/assets/c41cf2d5-90db-4b97-91cd-c0b1f0d69ef9) => LOYIHAGA SHUNCHA VAQTIM KETGANINI KORISHINGIZ MUMKIN 🤝👏
 UMID QILAMANKI , MENGA YAXSHI BALL QOYASIZ DEGAN UMIDDAMAN 👏🚀🌟🌟🎊
 
